@@ -9,14 +9,14 @@
 
 **A Caesar cipher is a straightforward way of message encoding. To generate an encoding alphabet, Caesar ciphers employ a substitution mechanism in which letters in the alphabet are displaced by a specified number of spaces. with a left shift of 3, D would be replaced by A, E would become B, and so on. The approach was called after Julius Caesar, the Roman commander who employed it in his private communication.**
 
-![Caesar shift](image/Caesarshift.png)
+![Caesar shift](image/Caesar shift.png)
 ****
 
 Here is an example of how the Caesar Cipher operates.
 
 
 
-![Caesar Encrypt](image/CaesarEncrypt.png)
+![Caesar Encrypt](image/Caesar Encrypt.png)
 
 **Since the Caesar Cipher only accepts one key, the key in this case is books. In this scenario, the Caesar cipher would encode N as S, e as j, and so on. For further information, see the table below. "Never judge a book by its film" was written into the text box. After that, the text is encrypted, giving the Cipher-text " Sjajw ozilj f gttp gd nyx rtanj."**
 
@@ -26,7 +26,7 @@ Here is an example of how the Caesar Cipher operates.
 ****
 The message can afterwards be decrypted.
 
-![Caesar Decrypt](image/CaesarDecrypt.png)
+![Caesar Decrypt](image/Caesar Decrypt.png)
 
 ****
 
@@ -37,7 +37,7 @@ The message can afterwards be decrypted.
 
 Here is an example of how the Double cube encryption works.
 
-![wuerfel Encrypt](image/wuerfelEncrypt.png)
+![wuerfel Encrypt](image/wuerfel Encrypt.png)
 
 **An example will now be used to show how the encryption works. First, we'll need a plaintext to encrypt. At this point, the plaintext is: I need back up now.
 Similarly, two keys are required. NOTEBOOK, with a length of 8, is used as the initial key. The plaintext is now input one line at a time into a rectangle whose width is dictated by the length of the key used. The length of the text used determines the height of the cube.**
@@ -58,7 +58,7 @@ and so on.
 
 The second key word is MUSIC.
 
-![wuerfel Encrypt](image/wuerfelEncrypt2key.png)
+![wuerfel Encrypt](image/wuerfel Encrypt key2.png)
 
 | M | U | S | I | C |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ The second key word is MUSIC.
 
 Shift the first and second keys to decipher the text.
 
-![wuerfel Decrypt](image/wuerfelDecrypt.png)
+![wuerfel Decrypt](image/wuerfel Decrypt.png)
